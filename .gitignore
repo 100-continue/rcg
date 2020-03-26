@@ -111,7 +111,7 @@ temp/
 # End of https://www.gitignore.io/api/node.reg
 
 # Ignore png files in directory_contains_actual_images
-directory_contains_actual_images/*.png
+directory_contains_actual_images/**/*.png
 
 # Ignore reg-suit working directory
 .reg
